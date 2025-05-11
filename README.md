@@ -36,7 +36,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fibre-classifier.git
+git clone https://github.com/frontzekkarl/fibre-classifier.git
 cd fibre-classifier
 ```
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 Launch the script:
 
 ```bash
-python gptgui.py
+python fibreclassifier.py
 ```
 
 A GUI will guide you through:
