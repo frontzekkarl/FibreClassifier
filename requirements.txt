@@ -1,0 +1,30 @@
+contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1744743161496/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1746913639330/work
+imagecodecs @ file:///Users/runner/miniforge3/conda-bld/imagecodecs_1736603210694/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1738273805233/work
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1737420181517/work
+joblib==1.5.0
+kiwisolver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_cc2l_z_0ri/croot/kiwisolver_1737039586949/work
+lazy_loader @ file:///home/conda/feedstock_root/build_artifacts/lazy-loader_1733636780672/work
+matplotlib==3.10.3
+networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1731521053/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1745118928160/work/dist/numpy-2.2.5-cp311-cp311-macosx_11_0_arm64.whl#sha256=4ddd35cc12792dffdbcc6eeda012fd391180bef8d4fcd5bb6241940e7269ba65
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1745345660/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1744430506825/work
+pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1746646335411/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1743089729650/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
+PyWavelets==1.8.0
+scikit-image @ file:///Users/runner/miniforge3/conda-bld/scikit-image_1739948502712/work/dist/scikit_image-0.25.2-cp311-cp311-macosx_11_0_arm64.whl#sha256=7d7216379417a74aac7712773db3a532035747395fb8b3b96b723fa4d272943d
+scikit-learn==1.6.1
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1739790733133/work/dist/scipy-1.15.2-cp311-cp311-macosx_11_0_arm64.whl#sha256=22d09b058f8dc2ede3b7efb028656169f42c30d91d02da114d6db6c6ccd40800
+shapely @ file:///Users/runner/miniforge3/conda-bld/shapely_1743678373849/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
+threadpoolctl==3.6.0
+tifffile @ file:///home/conda/feedstock_root/build_artifacts/tifffile_1743428055747/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1732615936501/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1736692555874/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
