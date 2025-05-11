@@ -79,4 +79,5 @@ MIT License
 
 ---
 
-Developed by [Your Name]
+Developed by Karl Frontzek
+
